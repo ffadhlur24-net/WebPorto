@@ -240,7 +240,7 @@ scrollToTopBtn.style.cssText = `
     right: 30px;
     width: 50px;
     height: 50px;
-    background: linear-gradient(135deg, #00d9ff, #0099ff);
+    background: linear-gradient(135deg, #00ff9d, #00c97a);
     color: #0f0f1e;
     border: none;
     border-radius: 50%;
@@ -250,7 +250,7 @@ scrollToTopBtn.style.cssText = `
     align-items: center;
     justify-content: center;
     z-index: 999;
-    box-shadow: 0 0 20px rgba(0, 217, 255, 0.5);
+    box-shadow: 0 0 20px rgba(0, 255, 157, 0.5);
     transition: all 0.3s ease;
 `;
 
@@ -288,12 +288,12 @@ cursor.style.cssText = `
     position: fixed;
     width: 20px;
     height: 20px;
-    border: 2px solid #00d9ff;
+    border: 2px solid #00ff9d;
     border-radius: 50%;
     pointer-events: none;
     z-index: 10000;
     opacity: 0.5;
-    box-shadow: 0 0 10px rgba(0, 217, 255, 0.5);
+    box-shadow: 0 0 10px rgba(0, 255, 157, 0.5);
     display: none;
 `;
 
