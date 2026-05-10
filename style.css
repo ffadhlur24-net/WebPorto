@@ -9,16 +9,16 @@
 }
 
 :root {
-    --bg-dark: #0f0f1e;
-    --bg-darker: #0a0a14;
+    --bg-dark: #0b1410;
+    --bg-darker: #07100c;
     --bg-card: rgba(255, 255, 255, 0.05);
     --bg-card-hover: rgba(255, 255, 255, 0.08);
-    --text-primary: #e0e0e0;
-    --text-secondary: #a0a0a0;
-    --accent-cyan: #00d9ff;
-    --accent-blue: #0099ff;
-    --glow-cyan: 0 0 20px rgba(0, 217, 255, 0.5);
-    --glow-blue: 0 0 15px rgba(0, 153, 255, 0.4);
+    --text-primary: #e6fff2;
+    --text-secondary: #9bc7b0;
+    --accent-cyan: #00ff9d;
+    --accent-blue: #00c97a;
+    --glow-cyan: 0 0 20px rgba(0, 255, 157, 0.5);
+    --glow-blue: 0 0 15px rgba(0, 201, 122, 0.4);
     --transition: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
